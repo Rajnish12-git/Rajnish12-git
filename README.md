@@ -1,22 +1,19 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
+# Hi 👋, I'm Rajnish Kumar
 
-<h3 align="center">
-  Full Stack Developer • AI/ML Enthusiast • C++ DSA
-</h3>
+### Full Stack Developer • AI/ML Enthusiast • C++ DSA
 
 <p align="center">
   <a href="https://github.com/Rajnish12-git">
-    <img src="https://img.shields.io/badge/GitHub-Rajnish12--git-181717?style=flat&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Rajnish12--git-181717?style=flat&logo=github" />
   </a>
   <a href="https://linkedin.com/in/rajnish-kumar-100558249">
-    <img src="https://img.shields.io/badge/LinkedIn-Rajnish%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rajnish%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kumarrajnishmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/rajnishsingh12">
-    <img src="https://img.shields.io/badge/LeetCode-rajnishsingh12-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-rajnishsingh12-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -35,183 +32,134 @@ I'm a Computer Science student who enjoys building **full-stack applications**, 
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 Currently Working On
 
 ### 🇮🇳 Bharat Darshan
 
-A cultural heritage platform designed to explore India's rich heritage, culture and destinations.
+A cultural heritage platform designed to explore India's rich heritage, culture, and destinations.
 
-**Tech Stack:**  
-`Next.js` `React` `Tailwind CSS` `Firebase`
+**Tech Stack:** `Next.js` `React` `Tailwind CSS` `Firebase`
 
-🔗 **Live:** https://web-bharat-darshan.vercel.app/  
-🔗 **Code:** https://github.com/Rajnish12-git/Bharat-Darshan
+🔗 [Live Demo](https://web-bharat-darshan.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/Rajnish12-git/Bharat-Darshan)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
-</p>
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-### 🎨 Frontend
+### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### ⚙️ Backend & Database
+### Backend & Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" />
-</p>
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 🔧 Tools
+### Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
+### 🇮🇳 Bharat Darshan
 
-<td width="50%">
-
-<h3>🇮🇳 Bharat Darshan</h3>
-
-<p>
 Cultural heritage platform built to explore India's diverse culture and heritage.
-</p>
 
-<p>
-<b>Tech:</b> Next.js • React • Tailwind • Firebase
-</p>
+**Tech:** `Next.js` `React` `Tailwind CSS` `Firebase`
 
-<a href="https://github.com/Rajnish12-git/Bharat-Darshan">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajnish12-git/Bharat-Darshan)
 
-<a href="https://web-bharat-darshan.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://web-bharat-darshan.vercel.app/)
 
-</td>
+---
 
-<td width="50%">
+### 🤖 CodeSense AI
 
-<h3>🤖 CodeSense AI</h3>
-
-<p>
 AI-powered Chrome extension designed to assist with LeetCode problems and analyze coding solutions.
-</p>
 
-<p>
-<b>Tech:</b> React • Vite • Tailwind • Gemini API
-</p>
+**Tech:** `React` `Vite` `Tailwind CSS` `Gemini API`
 
-<a href="https://github.com/Rajnish12-git/codesense-ai-extension">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajnish12-git/codesense-ai-extension)
 
-</td>
+---
 
-</tr>
+### 🏥 AI Healthcare Chatbot
 
-<tr>
-
-<td width="50%">
-
-<h3>🏥 AI Healthcare Chatbot</h3>
-
-<p>
 AI-powered healthcare chatbot with a Flask backend and machine-learning based responses.
-</p>
 
-<p>
-<b>Tech:</b> Python • Flask • Machine Learning
-</p>
+**Tech:** `Python` `Flask` `Machine Learning`
 
-<a href="https://ai-healthcare-chatbot-qw0q.onrender.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white" />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://ai-healthcare-chatbot-qw0q.onrender.com)
 
-</td>
+---
 
-<td width="50%">
+### 💰 Loan Approval Prediction
 
-<h3>💰 Loan Approval Prediction</h3>
-
-<p>
 Machine learning project for predicting loan approval using applicant information.
-</p>
 
-<p>
-<b>Tech:</b> Python • Machine Learning • Scikit-learn
-</p>
+**Tech:** `Python` `Machine Learning` `Scikit-learn`
 
-<a href="https://github.com/Rajnish12-git/loan-approval-ml">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajnish12-git/loan-approval-ml)
 
 ---
 
-# 📊 GitHub Dashboard
+## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajnish12-git&theme=tokyonight&hide_rank=true" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajnish12-git&theme=tokyonight" height="180"/>
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajnish12-git&theme=tokyonight)
 
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnish12-git&theme=tokyo-night&hide_border=true&area=true&custom_title=Rajnish's%20Contribution%20Graph" width="100%"/>
-</p>
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajnish12-git&theme=tokyonight)
 
 ---
 
-# 💻 Most Used Languages
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajnish12-git&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajnish12-git&theme=tokyonight" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajnish12-git&theme=tokyo-night&hide_border=true&area=true&custom_title=Rajnish%27s%20Contribution%20Graph)
 
 ---
 
-# 🐍 Contribution Snake
+## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rajnish12-git/Rajnish12-git/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajnish12-git&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajnish12-git&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Rajnish12-git/Rajnish12-git/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🧠 DSA & Problem Solving
 
-<p align="center">
+![C++](https://img.shields.io/badge/C++-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Active-2ea44f?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/C++-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem%20Solving-Active-2ea44f?style=for-the-badge" />
-
-</p>
-
-I regularly practice:
+### Topics I Practice
 
 `Arrays` • `Strings` • `Sliding Window` • `Two Pointers` • `Prefix Sum` • `Hashing`
 
@@ -221,33 +169,16 @@ I regularly practice:
 
 ## 🌐 Connect With Me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajnish-kumar-100558249)
 
-<a href="https://linkedin.com/in/rajnish-kumar-100558249">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rajnishsingh12)
 
-<a href="https://leetcode.com/rajnishsingh12">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajnish12-git)
 
-<a href="https://github.com/Rajnish12-git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:kumarrajnishmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarrajnishmail@gmail.com)
 
 ---
 
-<h3 align="center">
-  💻 Build • Learn • Solve • Repeat 🚀
-</h3>
+### 💻 Build • Learn • Solve • Repeat 🚀
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-```
+⭐ Thanks for visiting my profile!
