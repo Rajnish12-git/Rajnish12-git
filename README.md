@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
 
 <h3 align="center">
@@ -6,13 +7,16 @@
 
 <p align="center">
   <a href="https://github.com/Rajnish12-git">
-    <img src="https://komarev.com/ghpvc/?username=Rajnish12-git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-Rajnish12--git-181717?style=flat&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://github.com/Rajnish12-git?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rajnish12-git?label=Followers&style=flat" alt="GitHub Followers"/>
+  <a href="https://linkedin.com/in/rajnish-kumar-100558249">
+    <img src="https://img.shields.io/badge/LinkedIn-Rajnish%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Rajnish12-git">
-    <img src="https://img.shields.io/github/stars/Rajnish12-git?label=Stars&style=flat" alt="GitHub Stars"/>
+  <a href="mailto:kumarrajnishmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/rajnishsingh12">
+    <img src="https://img.shields.io/badge/LeetCode-rajnishsingh12-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
@@ -47,25 +51,25 @@ A cultural heritage platform designed to explore India's rich heritage, culture 
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -80,28 +84,40 @@ A cultural heritage platform designed to explore India's rich heritage, culture 
 
 <td width="50%">
 
-### 🇮🇳 Bharat Darshan
+<h3>🇮🇳 Bharat Darshan</h3>
 
+<p>
 Cultural heritage platform built to explore India's diverse culture and heritage.
+</p>
 
-**Tech:** Next.js • React • Tailwind • Firebase
+<p>
+<b>Tech:</b> Next.js • React • Tailwind • Firebase
+</p>
 
 <a href="https://github.com/Rajnish12-git/Bharat-Darshan">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://web-bharat-darshan.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🤖 CodeSense AI
+<h3>🤖 CodeSense AI</h3>
 
+<p>
 AI-powered Chrome extension designed to assist with LeetCode problems and analyze coding solutions.
+</p>
 
-**Tech:** React • Vite • Tailwind • Gemini API
+<p>
+<b>Tech:</b> React • Vite • Tailwind • Gemini API
+</p>
 
 <a href="https://github.com/Rajnish12-git/codesense-ai-extension">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -112,28 +128,36 @@ AI-powered Chrome extension designed to assist with LeetCode problems and analyz
 
 <td width="50%">
 
-### 🏥 AI Healthcare Chatbot
+<h3>🏥 AI Healthcare Chatbot</h3>
 
+<p>
 AI-powered healthcare chatbot with a Flask backend and machine-learning based responses.
+</p>
 
-**Tech:** Python • Flask • ML
+<p>
+<b>Tech:</b> Python • Flask • Machine Learning
+</p>
 
 <a href="https://ai-healthcare-chatbot-qw0q.onrender.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%">
 
-### 💰 Loan Approval Prediction
+<h3>💰 Loan Approval Prediction</h3>
 
+<p>
 Machine learning project for predicting loan approval using applicant information.
+</p>
 
-**Tech:** Python • Machine Learning • Scikit-learn
+<p>
+<b>Tech:</b> Python • Machine Learning • Scikit-learn
+</p>
 
 <a href="https://github.com/Rajnish12-git/loan-approval-ml">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -143,71 +167,41 @@ Machine learning project for predicting loan approval using applicant informatio
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Dashboard
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajnish12-git&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnish12-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajnish12-git&theme=tokyonight&hide_rank=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajnish12-git&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rajnish12-git&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnish12-git&theme=tokyo-night&hide_border=true&area=true&custom_title=Rajnish's%20Contribution%20Graph" width="100%"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity
+# 💻 Most Used Languages
 
 <p align="center">
-
-<a href="https://github.com/Rajnish12-git">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnish12-git&theme=tokyo-night&hide_border=true&area=true" />
-
-</a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajnish12-git&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajnish12-git&theme=tokyonight" />
 </p>
 
 ---
 
-# 📊 GitHub Profile Summary
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajnish12-git&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajnish12-git&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajnish12-git&theme=tokyonight" />
-
+  <img src="https://raw.githubusercontent.com/Rajnish12-git/Rajnish12-git/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-# 🐍 My Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Rajnish12-git/Rajnish12-git/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</p>
-
----
-
-# 🧠 DSA & Problem Solving
+## 🧠 DSA & Problem Solving
 
 <p align="center">
 
@@ -219,21 +213,13 @@ Machine learning project for predicting loan approval using applicant informatio
 
 I regularly practice:
 
-- Arrays & Strings
-- Sliding Window
-- Two Pointers
-- Prefix Sum
-- Hashing
-- Binary Search
-- Linked Lists
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
+`Arrays` • `Strings` • `Sliding Window` • `Two Pointers` • `Prefix Sum` • `Hashing`
+
+`Binary Search` • `Linked Lists` • `Stack & Queue` • `Trees` • `Graphs` • `Dynamic Programming`
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -262,5 +248,6 @@ I regularly practice:
 </h3>
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  ⭐ Thanks for visiting my profile!
 </p>
+```
