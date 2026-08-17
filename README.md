@@ -84,7 +84,7 @@ I enjoy turning ideas into practical applications across **Full Stack Developmen
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Rajnish12-git/Rajnish12-git/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Rajnish12-git/Rajnish12-git/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
